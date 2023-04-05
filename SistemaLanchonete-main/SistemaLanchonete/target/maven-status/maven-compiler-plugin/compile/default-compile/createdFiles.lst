@@ -1,0 +1,8 @@
+br\com\lanchonete\pessoas\Pessoa.class
+br\com\lanchonete\produtos\Produto.class
+br\com\lanchonete\pessoas\Usuario.class
+br\com\lanchonete\pessoas\Colaborador.class
+br\com\lanchonete\produtos\Pedido.class
+SistemaLanchonete.class
+br\com\lanchonete\pessoas\Administrador.class
+br\com\lanchonete\pessoas\Cliente.class
